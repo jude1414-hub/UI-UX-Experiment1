@@ -12,10 +12,11 @@ To explore the Hands-on UI/UX Experiments
 4.Try Design Tools Practice with tools like Figma or Adobe XD to create and test your own designs
 
 ## Output:
-![IMG_20250814_153814](https://github.com/user-attachments/assets/9a5f5782-dc5e-4fc5-90e6-583496ad16f6)
-![IMG_20250814_153825](https://github.com/user-attachments/assets/a693f0a1-fa94-4079-b45c-c48bf19a3bf7)
-![IMG_20250814_153833](https://github.com/user-attachments/assets/dd61329c-f25b-4887-bd5f-b4207876bf09)
-![IMG_20250814_153844](https://github.com/user-attachments/assets/2ae0b382-982f-4fa4-9a96-f8c85a05eb5b)
+![IMG_20250814_153844](https://github.com/user-attachments/assets/3760d2a8-6647-45ce-a372-4b2c5075d9cd)
+![IMG_20250814_153833](https://github.com/user-attachments/assets/9440eda5-8ecf-4367-9655-bbb399cde4fd)
+![IMG_20250814_153825](https://github.com/user-attachments/assets/144a7e77-4b67-43a7-b2dd-38d315c3c964)
+![IMG_20250814_153814](https://github.com/user-attachments/assets/8da84e4b-8f68-4389-9492-8ea6993e2628)
 
 ## Result:
+
 the aim is completed and verified
